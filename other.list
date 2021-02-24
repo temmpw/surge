@@ -1,9 +1,12 @@
 # 特殊应用
+
 # wiki
 DOMAIN-SUFFIX,mediawiki.org
 SUFFIX,wikiversity.org
 DOMAIN-SUFFIX,mediawiki.org
+
 # rss
 DOMAIN-SUFFIX,inoreader.com
+
 # omni
 DOMAIN-SUFFIX,omnigroup.com
