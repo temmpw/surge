@@ -1,4 +1,16 @@
 # Microsoft 365 Common 和 Office Online
+
+# > 域名关键词
+DOMAIN-KEYWORD,office,Microsoft
+DOMAIN-KEYWORD,windows,Microsoft
+DOMAIN-KEYWORD,onenote,Microsoft
+DOMAIN-KEYWORD,trafficmanager.net
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,live.com
+DOMAIN-KEYWORD,.live.net
+DOMAIN-KEYWORD,officeapps
+
 # > Office 365 视频 CDN
 DOMAIN,ajax.aspnetcdn.com
 DOMAIN,r3.res.outlook.com
