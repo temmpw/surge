@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,onenote,Microsoft
 DOMAIN-KEYWORD,trafficmanager.net
 DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,skype.com
 DOMAIN-KEYWORD,live.com
 DOMAIN-KEYWORD,.live.net
 DOMAIN-KEYWORD,officeapps
@@ -81,15 +82,17 @@ IP-CIDR6,2a01:111:f100:2002::8975:2d79/128
 IP-CIDR6,2a01:111:f100:2002::8975:2da8/128
 IP-CIDR6,2a01:111:f100:7000::6fdd:6cd5/128
 IP-CIDR6,2a01:111:f100:a004::bfeb:88cf/128
-
 # > 47
 DOMAIN-KEYWORD,.cdn.office.net
 DOMAIN,contentstorage.osi.office.net
-
 # > 49
 DOMAIN-KEYWORD,.onenote.com
+# > 50 OneNote 笔记本（通配符）
+DOMAIN-KEYWORD,msecnd.net
 # > 51
 DOMAIN-KEYWORD,cdn.onenote.net
+# > 52 OneNote 第三方支持服务和 CDN
+DOMAIN,ad.atdmt.com
 # > 53
 DOMAIN,ajax.aspnetcdn.com
 DOMAIN,apis.live.net
