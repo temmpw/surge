@@ -1,2 +1,6 @@
 # > 特定China ip
 DOMAIN-SUFFIX,qcloud.com
+
+# > 本地程序
+PROCESS-NAME,/Applications/QQ.app/Contents/MacOS/QQ
+ROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat
