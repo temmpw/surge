@@ -1,2 +1,5 @@
-# > 特定China ip
-DOMAIN-SUFFIX,qcloud.com
+# > evernote
+DOMAIN-SUFFIX,evernote.com
+
+# > notion
+DOMAIN-SUFFIX,notion-static.com
