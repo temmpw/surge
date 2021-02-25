@@ -1,6 +1,2 @@
 # > 特定China ip
 DOMAIN-SUFFIX,qcloud.com
-
-# > 本地程序
-USER-AGENT,QQ
-USER-AGENT,WeChat
